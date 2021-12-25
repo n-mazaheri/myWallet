@@ -1,0 +1,1 @@
+This is a simple etherium wallet. With the help of it, you can see the balance of desired acounts based on etherium or any  RC20 tokens. In addition, you can see the list of all transactions of the accounts. You also can transfer money (etherium or RC20 tokens) from your account to other accounts.
